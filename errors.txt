@@ -1,0 +1,12 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 1502: expected a keyword argument, colon, or end of line.
+    textbutton _("dont turn me off pls") action Show("confirm", message="this is gonna start over the game and turn off this thing are u sure", 
+                                        yes_action=[Hide("confirm"), ToggleField(persistent, "goofygoober_mode"), Start("goofygoober")],
+                                        no_action=Hide("confirm")
+                                    ))
+
+Ren'Py Version: Ren'Py 7.5.3.22090809
+Thu Apr 20 08:45:41 2023

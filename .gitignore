@@ -1,0 +1,10 @@
+LinuxLauncher.sh
+.vscode/
+__MACOSX/
+characters/
+game/chrs/
+Documentation/
+DDLCModTemplate.xcodeproj/
+*.rpa
+*.rpyc
+game/cache/

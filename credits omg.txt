@@ -1,0 +1,58 @@
+FRAMEWORK
+
+Original DDLC by Team Salvato, this mod is unaffiilated with them and you can download the original game here:
+(https://ddlc.moe)
+
+This mod was made possible by GanstaKingofSA's DDLC Mod Template 2.0:
+(https://github.com/GanstaKingofSA/DDLCModTemplate2.0)
+A full list of contributors can be found here:
+(https://github.com/GanstaKingofSA/DDLCModTemplate2.0/blob/python-2/CREDITS.md)
+
+MPT by Chronoshag, Yagamirai, and Terra, with help from DiabloGraves
+
+Autofocus by: Pseurae#6758, Elckarow#8399, and Q™#9999 (for the drop shadow effect)
+
+Better EMR Phone by: Elckarow
+
+Click Effects by: Elckarow
+
+live :fridge: reaction whenever i ask simple python questions in the discord by: Elckarow
+
+SOUND
+
+LeoDeCraprio on Discord for the UI sound effects
+
+949, Empyre, and StackertheEoD for the menu theme (taken from the Lofi Winter Music Pack)
+
+Penelope (formerly Oliver/Lucy) for the Weird Fishes/Arpeggi cover (Original song by Radiohead)
+
+UI
+
+Silver for the space-themed textbox/namebox
+
+manwell on color-hex for most UI colors:
+(https://www.color-hex.com/color-palette/9429)
+
+ART
+
+Almost all Monika CGs by StormBlaze
+
+The CG of Monika with her arms outstretched on both sides by Staticquit and Tom
+
+My friend Cress for the Clebsuki drawing on startup
+
+mouhantain for the Monster Hunter World Monika sprite
+
+Staticquit for the creepy Yuri sprite, the menu code matrix Monika sprite, and the eldritch horror Natsuki CG edit
+
+ADDITIONAL CODE
+
+xavimat on the Ren'Py forums for figuring out pronouns and plurality 5 years ago:
+(https://lemmasoft.renai.us/forums/viewtopic.php?t=50093#p486652)
+
+FONTS
+
+CamingoCode v1.0 Copyright (c) 2006-2014 by Jan Fromm. All rights reserved.
+This typeface is free for personal and commercial use. You are free to copy and transmit this typeface. You may not alter, transform, or build upon this typeface. Jan Fromm is not liable for any damage resulting from the use of this typeface.
+This typeface is licensed under Creative Commons CC BY-ND, Version 3.0:
+(http://creativecommons.org/licenses/by-nd/3.0/)
